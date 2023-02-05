@@ -9,7 +9,6 @@ import matplotlib.pyplot as plt
 import streamlit.components.v1 as components
 
 
-
 # Load the available data and overview
 
 url="data/dataonline.csv"
